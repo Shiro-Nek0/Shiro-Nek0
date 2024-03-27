@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Nek0&langs_count=10&layout=compact)
-
+[![Shiro-Nek0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiro-Nek0)](https://github.com/Shiro-Nek0/github-readme-stats)
 <!--
 **Shiro-Nek0/Shiro-Nek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
